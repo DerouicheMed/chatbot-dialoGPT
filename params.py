@@ -1,0 +1,1 @@
+HF_API_TOKEN = '' ## input your token here
